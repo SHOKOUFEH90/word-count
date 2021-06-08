@@ -143,6 +143,7 @@ latex_documents = [
      'Harsha', 'manual'),
 ]
 
+sphinx-build doc _build
 
 # -- Options for manual page output ---------------------------------------
 
